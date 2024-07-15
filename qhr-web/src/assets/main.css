@@ -1,0 +1,15 @@
+@font-face {
+	font-family: 'Inter';
+	src: url('Inter.ttf') format('truetype');
+	font-weight: 100 900;
+	font-style: oblique 0deg 10deg;
+}
+
+:root {
+    font-family: 'Inter';
+}
+
+body {
+    margin: 0;
+    background-color: var(--p-surface-950);
+}
